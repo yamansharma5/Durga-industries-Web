@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Durga Industries Website
 
 Simple production-ready business showcase website for industrial machinery repair, maintenance, fabrication, custom machinery parts, and low-volume/on-demand manufacturing.
